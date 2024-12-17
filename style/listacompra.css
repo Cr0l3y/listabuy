@@ -1,0 +1,40 @@
+
+
+
+
+
+
+h2{
+    font-family: var(--fonte-texto);
+    color: var(--cor-primaria);
+    font-size: 20px;
+    line-height: 33px;
+    text-align: left;
+}
+
+
+
+
+/* tracejado */
+hr{
+    border: none;
+    border-bottom: 3px dotted var(--cor-primaria);
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+p{
+    font-family: var(--fonte-texto);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
