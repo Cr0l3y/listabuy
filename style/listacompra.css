@@ -137,3 +137,17 @@ ul{
     background-color: transparent;
     border: none;
 }
+
+.item-lista-texto {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.item-lista-button {
+    border: none;
+    background-color: transparent;
+}
+
+.lista-container {
+    width: 100%;
+}
